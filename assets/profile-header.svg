@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
+<title id="title">Amos Geva — Technology consultant and builder</title>
+<desc id="desc">A slate blue banner with ivory lettering and a gold connection motif.</desc>
+<rect width="1200" height="240" rx="12" fill="#172C3D"/>
+<path d="M900 66h76v54h86v54h76M900 174h76v-54h86V66h76" fill="none" stroke="#547486" stroke-width="2"/>
+<g fill="#172C3D" stroke="#C9AA72" stroke-width="2"><circle cx="900" cy="66" r="7"/><circle cx="900" cy="174" r="7"/><circle cx="976" cy="120" r="9"/><circle cx="1062" cy="120" r="9"/><circle cx="1138" cy="66" r="7"/><circle cx="1138" cy="174" r="7"/></g>
+<text x="56" y="111" font-family="Georgia, 'Times New Roman', serif" font-size="64" fill="#FAF7F0">Amos Geva</text>
+<text x="59" y="158" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#D5E1E8">Technology consultant &amp; builder</text>
+<path d="M59 188h58" stroke="#C9AA72" stroke-width="3"/>
+</svg>
