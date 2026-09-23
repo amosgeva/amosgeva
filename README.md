@@ -10,7 +10,6 @@ secure cloud infrastructure, and business-system integrations.
 - Accounting, CRM, and operational-workflow integrations
 
 ## Selected work
-- Twinfield-MCP — AI-ready accounting-system integration
 - KYC Vault — secure workflow / document platform
 - daybase.work — business operations platform
 - PortfolioDB — portfolio and data-management project
