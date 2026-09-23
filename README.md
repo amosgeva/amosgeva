@@ -15,6 +15,6 @@ secure cloud infrastructure, and business-system integrations.
 - PortfolioDB — portfolio and data-management project
 
 ## Engagements
-Available for architecture, integrations, automation, and delivery.
+Available for cloud architecture, Microsoft 365 modernization, secure automation, AI-agent integrations, and business-system delivery.
 
 [Website](https://amosgeva.me) · [LinkedIn](https://www.linkedin.com/in/amosgeva/)
