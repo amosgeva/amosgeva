@@ -1,16 +1,21 @@
-## Hi there 👋
+# Amos Geva
 
-<!--
-**amosgeva/amosgeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technology consultant and builder focused on AI automation,
+secure cloud infrastructure, and business-system integrations.
 
-Here are some ideas to get you started:
+## What I build
+- AI agents, MCP servers, and API integrations
+- Microsoft 365, Exchange Online, and identity automation
+- Linux, Docker, VPS, monitoring, and secure deployments
+- Accounting, CRM, and operational-workflow integrations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected work
+- Twinfield-MCP — AI-ready accounting-system integration
+- KYC Vault — secure workflow / document platform
+- daybase.work — business operations platform
+- PortfolioDB — portfolio and data-management project
+
+## Engagements
+Available for architecture, integrations, automation, and delivery.
+
+[Website](https://amosgeva.me) · [LinkedIn](https://www.linkedin.com/in/amosgeva/)
